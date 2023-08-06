@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello 👋
+## Developer JavaScript
+**Lê Xuân Hoàng**,
+_Việt Trì, Phú Thọ_,
+**_công nghệ thông tin_**,
+
+[LinkedIn](https://www.linkedin.com/in/ho%C3%A0ng-l%C3%AA-335652286/)
+
+[`Movies Web`](https://movies999.vercel.app/)
+[`Baby Web`](https://becungshop.vercel.app/)
+[`Baby Manager`](https://becungshop.vercel.app/admin)
 
 <!--
 **lexhoang/lexhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
